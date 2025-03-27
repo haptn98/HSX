@@ -1,0 +1,1 @@
+ "C:/Program Files/Python311/python.exe" g:/FTA_sourcecode/INFOBANK_module/HOSE_module/[run]FTA_HSX_InfoB.py
